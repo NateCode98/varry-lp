@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1779" height="1543.766" viewBox="0 0 1779 1543.766">
+  <g id="Group_54" data-name="Group 54" transform="translate(-0.385 -0.478)">
+    <rect id="Rectangle_74" data-name="Rectangle 74" width="1779" height="1166" rx="10" transform="translate(0.385 0.478)" fill="#c61928"/>
+    <path id="Rectangle_75" data-name="Rectangle 75" d="M10,0H1550a12,12,0,0,1,12,12V1154a12,12,0,0,1-12,12H10a10,10,0,0,1-10-10V10A10,10,0,0,1,10,0Z" transform="translate(0.385 0.478)" fill="#ff494f"/>
+    <rect id="Rectangle_76" data-name="Rectangle 76" width="1048" height="40" rx="5" transform="translate(257.384 257.478)" fill="#fff"/>
+    <rect id="Rectangle_77" data-name="Rectangle 77" width="1048" height="39" rx="5" transform="translate(257.384 554.478)" fill="#fff"/>
+    <rect id="Rectangle_78" data-name="Rectangle 78" width="1048" height="40" rx="5" transform="translate(257.384 850.478)" fill="#fff"/>
+    <path id="Polygon_1" data-name="Polygon 1" d="M289.323,4.121a3,3,0,0,1,5.1,0L580.913,466.909a3,3,0,0,1-2.551,4.579H5.385a3,3,0,0,1-2.551-4.579Z" transform="matrix(0.53, 0.848, -0.848, 0.53, 1202.899, 799.348)" fill="#ff494f"/>
+  </g>
+</svg>

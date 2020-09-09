@@ -1,0 +1,65 @@
+{
+  "bundler": "rollup",
+  "shimport": "1.0.1",
+  "assets": {
+    "main": "client.e0083afe.js"
+  },
+  "css": {
+    "main": [
+      "assets/client-3ad4494e.css"
+    ]
+  },
+  "dependencies": {
+    "index.svelte": [
+      "index.3e95f0a0.js",
+      "MobileSubFooter.f650e820.js",
+      "SubFooter.f6b56e62.js",
+      "Carousel.ed46755f.js",
+      "assets/MobileSubFooter-988ec5b6.css",
+      "assets/SubFooter-308d3d85.css",
+      "assets/Carousel-ada64a7d.css"
+    ],
+    "approach.svelte": [
+      "approach.f4c11542.js",
+      "MobileSubFooter.f650e820.js",
+      "SubFooter.f6b56e62.js",
+      "assets/approach-52794079.css",
+      "assets/MobileSubFooter-988ec5b6.css",
+      "assets/SubFooter-308d3d85.css"
+    ],
+    "partners.svelte": [
+      "partners.6a668307.js",
+      "MobileSubFooter.f650e820.js",
+      "SubFooter.f6b56e62.js",
+      "Carousel.ed46755f.js",
+      "assets/partners-6839e7d4.css",
+      "assets/MobileSubFooter-988ec5b6.css",
+      "assets/SubFooter-308d3d85.css",
+      "assets/Carousel-ada64a7d.css"
+    ],
+    "imprint.svelte": [
+      "imprint.2407947a.js",
+      "MobileSubFooter.f650e820.js",
+      "assets/imprint-ab254672.css",
+      "assets/MobileSubFooter-988ec5b6.css"
+    ],
+    "about.svelte": [
+      "about.c8762966.js",
+      "MobileSubFooter.f650e820.js",
+      "assets/about-2fc9369b.css",
+      "assets/MobileSubFooter-988ec5b6.css"
+    ],
+    "story.svelte": [
+      "story.2c88c91f.js",
+      "MobileSubFooter.f650e820.js",
+      "assets/story-6cd52e77.css",
+      "assets/MobileSubFooter-988ec5b6.css"
+    ],
+    "terms.svelte": [
+      "terms.57cb13ac.js",
+      "MobileSubFooter.f650e820.js",
+      "assets/terms-fc7a2480.css",
+      "assets/MobileSubFooter-988ec5b6.css"
+    ]
+  }
+}

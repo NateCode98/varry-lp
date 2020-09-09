@@ -1,0 +1,65 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+    --heading-font: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    --text-blue: #3A1660;
+    --text-red: #FF494F;
+    --body-fonts: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    font-family: var(--body-fonts);
+    overflow-x: hidden;
+}
+
+h1,
+h2,
+h3 {
+    font-family: var(--heading-font);
+    font-weight: 600;
+}
+
+span {
+    color: var(--text-red);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+p.lead {
+    font-family: var(--body-fonts);
+}
+
+.blue {
+    color: var(--text-blue);
+}
+
+p {
+    line-height: 1.5;
+}
+
+@media only screen and (max-width:1024px) {
+    .hero {
+        display: none;
+    }
+    .quote {
+        display: none !important;
+    }
+    .navbar {
+        display: none !important;
+    }
+    .mobile__hero {
+        display: block !important;
+    }
+    .mobile__image {
+        display: block !important;
+    }
+}

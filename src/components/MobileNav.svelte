@@ -204,7 +204,7 @@
 					<li class="navigation__item"><a class="navigation__link" href="approach">Approach</a></li>
 					<li class="navigation__item"><a class="navigation__link" href="story">Our Story</a></li>
 					<li class="navigation__item"><a class="navigation__link" href="https://www.notion.so/Job-Board-Varry-2096e87f71424dfaa693abe7a3e07c37" target="_blank">Job Board</a></li>
-					<li class="navigation__item"><a class="navigation__link" href="https://varry.typeform.com/to/g2OSfi5B" class="nav-button" target="_blank">Join Now</a></li>
+					<li class="navigation__item"><a class="navigation__link" href="https://varry.typeform.com/to/g2OSfi5B" target="_blank">Join Now</a></li>
 				</ul>
 			</nav>
 		</div>

@@ -144,7 +144,7 @@
 	heading="Want to become a partner?" 
 	subtext="Build the platform hand-in-hand with us, tailored to your needs"
 	buttonBool="true"
-	buttonLink="/join"
+	buttonLink="https://varry.typeform.com/to/g2OSfi5B"
 	buttonText="Get In Touch"
 	/>
 
@@ -152,6 +152,6 @@
 	heading="Want to become a partner?" 
 	text="Build the platform hand-in-hand with us, tailored to your needs"
 	button={true}
-	buttonLink="/join"
+	buttonLink="https://varry.typeform.com/to/g2OSfi5B"
 	buttonText="Get In Touch"
 />

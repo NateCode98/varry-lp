@@ -146,13 +146,13 @@
 	heading="Join the future of education" 
 	subtext="One platform. Everything you need to kickstart your digital career."
 	buttonBool="true"
-	buttonLink="https://varry.typeform.com/to/g2OSfi5B"
+	buttonLink="https://form.typeform.com/to/GLDOuGSz"
 	buttonText="Join Now!"/>
 
 <MobileSubFooter
 	heading="Join the future of education" 
 	text="One platform. Everything you need to kickstart your digital career."
 	button={true}
-	buttonLink="https://varry.typeform.com/to/g2OSfi5B"
+	buttonLink="https://form.typeform.com/to/GLDOuGSz"
 	buttonText="Join Now!"
 />

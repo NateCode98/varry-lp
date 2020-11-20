@@ -74,7 +74,6 @@
 				<li><a href="/">For Students</a></li>
 				<li><a href="partners">For Partners</a></li>
 				<li><a href="approach">Approach</a></li>
-				<li><a href="story">Our Story</a></li>
 				<li><a href="https://www.notion.so/Job-Board-Varry-2096e87f71424dfaa693abe7a3e07c37" target="_blank">Job Board</a></li>
 				<li><a href="https://form.typeform.com/to/GLDOuGSz" class="nav-button" target="_blank">Join Now</a></li>
 			</ul>
